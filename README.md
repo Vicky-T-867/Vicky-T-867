@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Vicky! 👋
 
-<!--
-**Vicky-T-867/Vicky-T-867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **Computer Science** graduate who loves hands-on building and problem-solving. I am currently exploring different paths across the tech industry—including software development, security concepts, and project execution—to find where I can bring the most value.
 
-Here are some ideas to get you started:
+## 🛠️ My Technical Toolbox & Interests
+*   💻 **Core Foundations:** Computer Science principles, data handling, and writing clean, structured code.
+*   🚀 **Automation:** Building Python scripts and templates to eliminate manual work and speed up workflows.
+*   🌱 **Continuous Learning:** Actively experimenting with new tools, building practice labs, and learning on the go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+*   [eng-data-streamliner](https://github.com) - A high-efficiency Python automation toolkit that consolidates telemetry logs, flags anomalies, and auto-generates client-ready documentation.
+
+## 📫 Connect with Me
+*   💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/wing-yi-tsoi)!
+*   🎯 Open to entry-level opportunities and ready to learn, adapt, and grow with a technical team.
