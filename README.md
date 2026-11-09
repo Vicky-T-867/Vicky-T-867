@@ -16,7 +16,7 @@ I am a high-achieving Master of Computer Science student at the University of Wo
 - **Languages:** JavaScript (ES6+), TypeScript, Python, SQL, Java
 - **Frameworks & Core Tools:** React Native, Expo Go, React.js, HTML5, CSS3
 - **Backend, Cloud & Security:** Supabase (PostgreSQL, Storage, Auth), Firebase, RESTful APIs, IAM / RBAC
-- **Environments & Tools:** Git / GitHub, Cursor, Linux, macOS
+- **Environments & Tools:** Git / GitHub, VS code, Linux, macOS, Microsoft 365
 
 ---
 
