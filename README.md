@@ -1,6 +1,6 @@
 # Hi there, I'm Vicky! 👋
 
-I am a high-achieving Master of Computer Science student at the University of Wollongong specializing in **Cybersecurity**, currently tracking an elite (Distinction Average)**. I bridge the gap between secure, robust backend architectures and clean, responsive cross-platform user interfaces.
+I am a high-achieving Master of Computer Science student at the University of Wollongong specializing in **Cybersecurity**, currently tracking an elite (Distinction Average). I bridge the gap between secure, robust backend architectures and clean, responsive cross-platform user interfaces.
 
 ---
 
