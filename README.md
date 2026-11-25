@@ -1,61 +1,214 @@
+
 # Hi there, I'm Vicky! 👋
 
-I am a high-achieving Master of Computer Science student at the University of Wollongong specializing in **Cybersecurity**, currently tracking an elite (Distinction Average). I bridge the gap between secure, robust backend architectures and clean, responsive cross-platform user interfaces.
+🎓 Master of Computer Science (Cyber Security) | University of Wollongong
+
+🔐 Cybersecurity | 💻 Software Engineering | 🤖 Artificial Intelligence
+
+I'm an early-career technology professional interested in building secure, reliable and user-focused software solutions. My experience spans mobile application development, backend integration, cybersecurity, machine learning and data management through academic and industry-based projects.
+
+I am passionate about solving technical problems, exploring emerging technologies and continuously developing my skills.
 
 ---
 
-### 🚀 Technical Focus
-- 📱 **Mobile & Frontend Engineering:** Specializing in building modular, state-driven mobile applications with React Native and Expo Go.
-- 🔒 **Software Security:** Architecting secure design implementations, data privacy workflows, and strict Role-Based Access Control (RBAC).
-- 💾 **Relational Systems:** Designing robust PostgreSQL database schemas and optimized client-server data exchange pipelines.
+### 🚀 Currently Working On
+
+**UOW Summer Research Scholarship 2026/2027**  
+University of Wollongong × TenantVoice Pty Ltd
+
+Awarded a 10-week industry research placement focusing on:
+
+- Web and mobile application development and integration
+- Technical and security gap assessments
+- Vulnerability assessment and security testing
+- Application, database, API and infrastructure security
+- AI-assisted tenant and property ownership verification
+- Data privacy and secure production deployment
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Technical Skills
 
-- **Languages:** JavaScript (ES6+), TypeScript, Python, SQL, Java
-- **Frameworks & Core Tools:** React Native, Expo Go, React.js, HTML5, CSS3
-- **Backend, Cloud & Security:** Supabase (PostgreSQL, Storage, Auth), Firebase, RESTful APIs, IAM / RBAC
-- **Environments & Tools:** Git / GitHub, VS code, Linux, macOS, Microsoft 365
+**Programming Languages**
+
+- Python
+- JavaScript
+- SQL
+- Solidity
+- Java
+- TypeScript (Foundational)
+
+**Software Development**
+
+- React Native
+- Expo
+- Node.js
+- HTML5 & CSS3
+- REST APIs
+- Frontend-backend integration
+
+**Databases & Data Engineering**
+
+- PostgreSQL
+- Supabase
+- Firebase
+- Apache Spark
+- Apache Hive
+- Apache Pig
+- Apache HBase
+
+**Cybersecurity**
+
+- Identity and Access Management (IAM)
+- Authentication and Authorisation
+- OAuth 2.0 & PKCE
+- Role-Based Access Control (RBAC)
+- Cryptography
+- Zero Trust Architecture
+- Web Application Security Fundamentals
+- Secure Software Development
+
+**Artificial Intelligence & Machine Learning**
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Ollama
+- Text Embeddings
+- Data Processing
+- Model Evaluation
+- AI-Assisted Development
+
+**Development Tools & Environments**
+
+- Git & GitHub
+- Visual Studio Code
+- Hardhat
+- Figma
+- VirtualBox
+- Linux, Windows & macOS
 
 ---
 
-### 📂 Featured Technical Projects
+### 📂 Featured Projects
 
-#### 📱 "TenantVoice" Cross-Platform Mobile Application
-*Full-Stack Mobile App developed and modernized within an industry capstone project context.*
-- **Mobile Development:** Refactored legacy codebases and eliminated deprecated dependencies using **React Native** and **Expo** to optimize stability.
-- **Backend Architecture:** Migrated infrastructure to **Supabase** and designed robust relational PostgreSQL database schemas.
-- **Identity & Access Management:** Deployed secure multi-role session layers via Supabase Auth, strictly enforcing **Role-Based Access Control (RBAC)**.
-- **Data Privacy Workflows:** Established robust file upload and storage workflows using Supabase Storage to ensure compliance with strict information security standards.
+#### 📱 TenantVoice – Cross-Platform Mobile Application
 
-#### 🔒 Secure Cryptographic Storage & Blockchain Audit System
-*A decentralized security system focused on data integrity and confidential access keys.*
-- **Cryptographic Schemes:** Programmed symmetric encryption and digital signatures (**ECDSA**) to guarantee file confidentiality and owner authenticity.
-- **Decentralized Access Control:** Engineered smart contracts to maintain immutable audit logs and programmatically enforce access boundaries on-chain.
-- **Threat Modelling:** Formulated a complete STRIDE threat model to conduct rigorous boundary testing against unauthorized modifications.
+Industry Capstone Project | University of Wollongong | 2026
 
-#### 🐍 Data Ingestion Pipeline & Text-Parsing Language Model
-*An automated, structured data pipeline programmed in Python.*
-- **Data Processing:** Built a data processing script to ingest, parse, and clean raw text sources into metadata-rich JSON records.
-- **Validation Loops:** Implemented systematic evaluation protocols and validation loops to test component logic and minimize generation errors.
+A multi-role housing platform designed to support interactions between tenants, property owners, service providers and regulators.
 
----
+**My Contributions:**
 
-### 💼 Professional Snapshot
+- Developed mobile application features using React Native and Expo.
+- Implemented email authentication, Google and Facebook OAuth, and password recovery workflows.
+- Contributed to Supabase backend configuration, PostgreSQL schemas, SQL queries and RPCs.
+- Developed role-specific dashboards, housing portal functionality and regulator access workflows.
+- Investigated and resolved authentication, navigation and system integration issues.
+- Supported application testing, UI improvements and bug resolution.
 
-**Interface Engineering & QA Support**  
-- Experienced in translating high-fidelity interactive wireframes into pixel-perfect layouts using **Figma**.
-- Skilled in end-to-end quality assurance, diagnosing interface bugs, and verifying cross-browser compliance to stabilize codebases.
-- Proven capability coordinating workflows and task prioritization within agile, cross-functional project teams.
+**Technologies:** React Native, Expo, JavaScript, Supabase, PostgreSQL, OAuth, Figma
 
 ---
 
-### 📊 GitHub Activity & Stats
+#### 🔐 Blockchain-Based Secure File Storage and Sharing
 
+Academic Cybersecurity Project | CSIT953 | 2026
+
+A blockchain-based proof of concept exploring secure file storage, authorised file sharing and data integrity.
+
+- Developed smart contracts using Solidity and Hardhat.
+- Applied cryptographic techniques and access control mechanisms.
+- Implemented blockchain-based event logging and permission enforcement.
+- Conducted 131 automated tests across Hardhat and Python test suites.
+- Evaluated system functionality, security behaviour and failure-handling mechanisms.
+
+**Technologies:** Solidity, Hardhat, Python, Blockchain, Cryptography
 
 ---
 
-## 📫 Connect with Me
-*   💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/wing-yi-tsoi)!
-*   🎯 Open to entry-level opportunities and ready to learn, adapt, and grow with a technical team.
+#### 🤖 Shakespeare-Aware Language Model & RAG Pipeline
+
+Machine Learning Algorithms and Applications | CSCI933 | 2026
+
+A retrieval-augmented generation pipeline designed to improve contextual information retrieval from Shakespearean text.
+
+- Developed Python-based text processing workflows.
+- Processed unstructured text into structured JSON records.
+- Implemented text chunking, embeddings and retrieval mechanisms.
+- Integrated local language models using Ollama.
+- Evaluated generated responses and retrieval performance.
+
+**Technologies:** Python, Ollama, LLMs, RAG, JSON, Embeddings
+
+---
+
+#### 📊 Big Data Management
+
+Academic Coursework | ISIT912 | 2025
+
+Practical coursework covering distributed data processing and database management.
+
+- Processed and analysed datasets using distributed computing technologies.
+- Developed queries for data extraction, aggregation and transformation.
+- Completed practical exercises involving relational and NoSQL databases.
+
+**Technologies:** Apache Spark, Hive, Pig, HBase, SQL
+
+---
+
+#### 🛡️ Zero Trust Network Architecture
+
+Individual Research Essay | 2025
+
+- Evaluated enterprise cybersecurity risks and traditional security models.
+- Examined NIST SP 800-207 and the CISA Zero Trust Maturity Model.
+- Researched least-privilege access, continuous verification and network segmentation.
+
+---
+
+### 💼 Professional Experience
+
+**Team Lead – Mentorze**
+
+- Coordinated team activities and cross-functional communication.
+- Contributed to UI design and prototyping using Figma.
+- Conducted website functionality and usability testing.
+- Assisted with marketing initiatives and software improvement activities.
+
+---
+
+### 🌱 Currently Learning
+
+- Vulnerability Assessment & Security Testing
+- Web Application & API Security
+- AI Agents & Secure AI Integration
+- Full-Stack Web Development
+- Cloud Technologies & DevSecOps
+
+---
+
+### 🏆 Academic Recognition
+
+- UOW EIS Summer Research Scholarship 2026/2027
+
+---
+
+### 🎯 Career Interests
+
+- Cybersecurity & Security Engineering
+- Software Engineering
+- Artificial Intelligence & Machine Learning
+- Application Engineering
+- Data Analytics & Engineering
+
+---
+
+### 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/wing-yi-tsoi)
+- 📍 Australia
+- Open to graduate and junior technology opportunities.
+
+---
+
+*Always learning, building and improving.*
