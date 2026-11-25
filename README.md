@@ -34,16 +34,14 @@ Awarded a 10-week industry research placement focusing on:
 - Python
 - JavaScript
 - SQL
-- Solidity
-- Java
-- TypeScript (Foundational)
+
 
 **Software Development**
 
 - React Native
 - Expo
 - Node.js
-- HTML5 & CSS3
+- HTML & CSS
 - REST APIs
 - Frontend-backend integration
 
